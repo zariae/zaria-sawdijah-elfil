@@ -2,10 +2,10 @@
 layout: layouts/base.njk
 ---
 <div class="about-section">
-  <h1>About Me</h1>
+  <h1>About</h1>
   <img src="biophoto.jpg" alt="photo description of me" style="width:300px">
-  <p>Some text about who I am and what I do.</p>
-  <p>Resize the browser window to see that this page is responsive by the way.</p>
+  <p>Zaria Sawdijah El-Fil is a Ph.D candidate in the Department of History at the University of Chicago, where her research focuses on the legal and geopolitical dynamics of slavery along the U.S.-Mexico borderlands region – with special emphasis on how enslaved and free Black people engaged with legal systems across shifting national boundaries.</p>
+  <p>In the field of digital humanities, Zaria is interested in black digital approaches to data ethics, archiving, and pedagogy. Zaria is currently a Predoctoral Digital Research Fellow with LifexCode: DH Against Enclosure.</p>
 </div>
 
 <h1 style="text-align:center">Research Interests</h1>
